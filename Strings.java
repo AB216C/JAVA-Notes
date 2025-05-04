@@ -7,5 +7,8 @@ public class Strings {
 
         System.out.println(name);
         System.out.println(name2);
+
+
+
     }
 }
