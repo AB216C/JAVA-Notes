@@ -1,0 +1,172 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    
+    
+
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListLessonStrings",
+      "request": "launch",
+      "mainClass": "JavaBasics.ArrayListLessonStrings",
+      "projectName": "JAVA_5fbd0481",
+      "console": "internalConsole"
+    },
+    {
+      "type": "java",
+      "name": "ArrayToArrayList",
+      "request": "launch",
+      "mainClass": "JavaBasics.ArrayToArrayList",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "JavaBasics.Arrays",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "ArthmeticOp",
+      "request": "launch",
+      "mainClass": "JavaBasics.ArthmeticOp",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "JavaBasics.BinarySearch",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "Casting",
+      "request": "launch",
+      "mainClass": "JavaBasics.Casting",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "JavaBasics.ForLoop",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "InputsScanners",
+      "request": "launch",
+      "mainClass": "JavaBasics.InputsScanners",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "InputsScannersInteger",
+      "request": "launch",
+      "mainClass": "JavaBasics.InputsScannersInteger",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "LogicalOperator",
+      "request": "launch",
+      "mainClass": "JavaBasics.LogicalOperator",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "LoopConstructs",
+      "request": "launch",
+      "mainClass": "JavaBasics.LoopConstructs",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "MultDimentionArray",
+      "request": "launch",
+      "mainClass": "JavaBasics.MultDimentionArray",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "SortingArrays",
+      "request": "launch",
+      "mainClass": "JavaBasics.SortingArrays",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "SplitAndJoin",
+      "request": "launch",
+      "mainClass": "JavaBasics.SplitAndJoin",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "StringEquality",
+      "request": "launch",
+      "mainClass": "JavaBasics.StringEquality",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "StringImmutability",
+      "request": "launch",
+      "mainClass": "JavaBasics.StringImmutability",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "StringMethods",
+      "request": "launch",
+      "mainClass": "JavaBasics.StringMethods",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "JavaBasics.Strings",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "JavaBasics.Student",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "SwitchCase",
+      "request": "launch",
+      "mainClass": "JavaBasics.SwitchCase",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "SwitchChallenge",
+      "request": "launch",
+      "mainClass": "JavaBasics.SwitchChallenge",
+      "projectName": "JAVA_5fbd0481"
+    },
+    {
+      "type": "java",
+      "name": "ifStatement",
+      "request": "launch",
+      "mainClass": "JavaBasics.ifStatement",
+      "projectName": "JAVA_5fbd0481"
+    }
+  ]
+}
