@@ -28,7 +28,7 @@ public class InputsScanners {
         System.out.print("What's your name? ");
         String name = scanner.nextLine();
 
-//        scanner.nextLine();     //Without this line, function will still execute the next line because a code with next line in it was executed first
+//        scanner.nextLine();     //Without this line, the function will still execute the next line because the code with the next line in it was executed first
 
         System.out.print("What's your age? ");
         int age = scanner.nextInt();

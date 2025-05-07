@@ -7,8 +7,7 @@ public class BinarySearch {
         System.out.println("Array" + Arrays.toString(numbers));
 
 
-
-        int searchForExisting = 12;
+        int searchForExisting = 3;
 
         //search for 10 will return (-insersion point)-1: -5-1=-6 because 10 is at 5th index
 

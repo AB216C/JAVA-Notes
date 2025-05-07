@@ -23,7 +23,7 @@ public class JavaConstructors {
         age = 20;
 
     }
-   // The following constructors are intended to make StudentB,C to infinity exist. Without them, there will be a compiler errors
+   // The following constructors are intended to make Student B,C to infinity exist. Without them, there will be a compiler errors
     //StudentA can survive without this  constructor
     public JavaConstructors(String name, int age) {
       this.name = name;

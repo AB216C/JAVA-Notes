@@ -1,6 +1,7 @@
 package JavaBasics;
 public class LoopConstructs {
     public static void main(String[] args) {
+//
 //        int x = 5;  //Already declared Values
 //        int y = 0;
 //        int z = 7;
@@ -8,9 +9,9 @@ public class LoopConstructs {
 //        for(y = 10, x = 10, z= 20; x<15&&y<20; x++, y++){
 //            System.out.println(x + "_X");
 //            System.out.println(y + "_Y");
-//
-//            //redefining variable x
-//            //Every value is reassignment
+
+            //redefining variable x
+            //Every value is reassignment
 
 //        String[] StudentNames = new String[3];
 //
