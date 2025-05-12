@@ -23,6 +23,8 @@ public class InputsScannersInteger {
         System.out.print("What's your new age? ");
         int age = scanner.nextInt();
 
+
+
         scanner.nextLine(); //Without this line, the code won't run the next lines due to integer being executed first.
 
         System.out.print("What's your new name? ");
