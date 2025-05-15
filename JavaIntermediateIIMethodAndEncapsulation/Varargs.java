@@ -36,7 +36,7 @@ public class Varargs {
     }
 
     public static void main(String[] args) {
-        int varargsTest = sum(2,5,6,7,8,9,9,6);
+        int varargsTest = sum(2,5,6);
         System.out.println(varargsTest);
     }
 

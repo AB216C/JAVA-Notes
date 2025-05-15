@@ -26,7 +26,7 @@ abstract class Animals {
 
 }
 
-    //Adding a regular meth
+    //Adding a regular methods
 
 
 class Dogs extends Animals {

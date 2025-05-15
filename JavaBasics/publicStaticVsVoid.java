@@ -1,5 +1,5 @@
 package JavaBasics;
-public class Student {
+public class publicStaticVsVoid {
 //instance vs class variables
 
     int age;  // instance variables: This is available for one student(field) default value for int is zero (0)

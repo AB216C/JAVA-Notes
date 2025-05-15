@@ -2,7 +2,8 @@ package JavaBasics;
 
 public class MyStringBuilder {
     public static void main(String[] args) {
-        StringBuilder str = new StringBuilder();
+        StringBuilder str = new StringBuilder();   //This is an empty string
+
 
         str.append("Hello");
         str.append(" World,");
