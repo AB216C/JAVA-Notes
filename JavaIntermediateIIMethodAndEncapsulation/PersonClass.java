@@ -1,6 +1,6 @@
 package JavaIntermediateIIMethodAndEncapsulation;
 
-public class Person {
+public class PersonClass {
     public String name;    //Accessible from anywhere
     private int age;      //Accessible only within this class
     protected String address;   //Accessible within the same package or subclass
@@ -8,7 +8,7 @@ public class Person {
 
 
 
-    public Person(String name, int age, String address, int phoneNumber) {
+    public PersonClass(String name, int age, String address, int phoneNumber) {
         this.name = name;
         this.age = age;
         this.address = address;

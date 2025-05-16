@@ -1,8 +1,8 @@
 package JavaIntermediateIIMethodAndEncapsulation;
 
-public class PersonObjects {
+public class PersonClassObjects {
     public static void main(String[] args) {
-        Person person = new Person("Alice", 20, "405 N Avenue", 342233222);
+        PersonClass person = new PersonClass("Alice", 20, "405 N Avenue", 342233222);
 
 //Public field and public method
         System.out.println("Person's name:" + person.name);
